@@ -146,5 +146,3 @@ def login_page():
                 st.warning("⚠️ Preencha usuário e senha.")
     
     st.markdown("---")
-    st.info("💡 **Primeiro acesso:** Use 'admin' / 'admin123' para acessar como administrador.")
-
